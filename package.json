@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/CarlosPhilipe/basic-api/issues"
   },
-  "homepage": "https://github.com/CarlosPhilipe/basic-api#readme"
+  "homepage": "https://github.com/CarlosPhilipe/basic-api#readme",
+  "dependencies": {
+    "debug": "^4.1.0",
+    "express": "^4.16.4",
+    "http": "0.0.0"
+  }
 }
